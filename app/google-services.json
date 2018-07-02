@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "434866753088",
+    "firebase_url": "https://zerotransit-47040.firebaseio.com",
+    "project_id": "zerotransit-47040",
+    "storage_bucket": "zerotransit-47040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434866753088:android:f4158d6d7f13cf96",
+        "android_client_info": {
+          "package_name": "com.bluetooth.myapplicationui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434866753088-capsn2s7vcofjkd8pinn59hcvml0dl90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluetooth.myapplicationui",
+            "certificate_hash": "74896023b5e5cf433735c4bf0654cb948dba2848"
+          }
+        },
+        {
+          "client_id": "434866753088-pnadqn3r4jm89pghq2ggagdvocgl7apk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsbEZ-rCepHTf-tbARV6HcrruJ8IC1VM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434866753088-pnadqn3r4jm89pghq2ggagdvocgl7apk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
